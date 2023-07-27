@@ -1,0 +1,8 @@
+D:\Assisted project\Ap-1\Ap-1\bin\Debug\Ap-1.exe.config
+D:\Assisted project\Ap-1\Ap-1\bin\Debug\Ap-1.exe
+D:\Assisted project\Ap-1\Ap-1\bin\Debug\Ap-1.pdb
+D:\Assisted project\Ap-1\Ap-1\obj\Debug\Ap-1.csproj.AssemblyReference.cache
+D:\Assisted project\Ap-1\Ap-1\obj\Debug\Ap-1.csproj.SuggestedBindingRedirects.cache
+D:\Assisted project\Ap-1\Ap-1\obj\Debug\Ap-1.csproj.CoreCompileInputs.cache
+D:\Assisted project\Ap-1\Ap-1\obj\Debug\Ap-1.exe
+D:\Assisted project\Ap-1\Ap-1\obj\Debug\Ap-1.pdb
